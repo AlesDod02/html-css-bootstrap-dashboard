@@ -5,3 +5,16 @@
     gap: 600px
     ;
 }
+
+.searchbar{
+    width: 10%;
+}
+.height{
+height: 10px;
+}
+
+.barstatus{
+    width: 15%;
+    
+    text-align: center;
+}
